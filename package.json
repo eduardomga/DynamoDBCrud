@@ -11,7 +11,8 @@
   "author": "eduardo.gusmao",
   "contributors": [],
   "dependencies": {
-    "aws-sdk": "^2.133.0",
+    "aws-sdk": "^2.149.0",
+    "body-parser": "^1.18.2",
     "express": "^4.16.2"
   },
   "scripts": {
